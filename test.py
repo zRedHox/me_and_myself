@@ -6,4 +6,4 @@ print('4')
 
 print('ทดลองพิมภาษาไทยใน vs code')
 
-print('tset v1.0')
+print('tset v1.0 ppppppppppp' )
